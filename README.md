@@ -30,7 +30,7 @@ Then in the Docker app on Synology:
 - Wait a bit!
 
 
-Once ready, you should be able to click on Container and see it running. You should be able to open a browser and go to http://<ip of NAS>:8080 (or whatever port you picked) and see "Hello, Docker!"
+Once ready, you should be able to click on Container and see it running. You should be able to open a browser and go to http://NAS_IP_HERE:8080 (or whatever port you picked) and see "Hello, Docker!"
 
 You can also click on the container, click Details and see the logs including the HTTP requests, etc.
 
